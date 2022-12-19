@@ -1,4 +1,4 @@
-version: v=STSv1; id=20221219000000Z
-mode: testing
+version: STSv1; id=3dca128e3bcfa2d5f305165c72e9ad5c
+mode: enforce
 mx: officialsensitive-uk02b.mail.protection.outlook.com
-max_age: 604800
+max_age: 1209600
