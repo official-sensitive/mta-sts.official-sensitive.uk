@@ -1,4 +1,4 @@
-version: STSv1 id=3dca128e3bcfa2d5f305165c72e9ad5A
+version: STSv1
 mode: enforce
 mx: officialsensitive-uk02b.mail.protection.outlook.com
 max_age: 1209600
